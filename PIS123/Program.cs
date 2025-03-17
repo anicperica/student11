@@ -6,7 +6,7 @@ namespace PIS123
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Pozdrav svjete!");
         }
     }
 }
